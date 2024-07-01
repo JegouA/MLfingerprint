@@ -1,3 +1,9 @@
+# Copyright 2024 by Aude Jegou.
+# All rights reserved.
+# This file is part of the MLfingerprint project,
+# and is released under the "GPL-v3". Please see the LICENSE
+# file that should have been included as part of this package.
+
 import utils as ut
 import os
 
